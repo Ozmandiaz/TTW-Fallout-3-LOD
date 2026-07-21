@@ -6,13 +6,14 @@ As with almost all LOD mods, this is not standalone and requires FNVLODGen to wo
 
 -------------------------------------------------- Description --------------------------------------------------
 
-New In 1.7.2
-   
+New In 1.7.3
+
+    Replaced high-res textures with low-res versions
+
+Pre-1.7.3
+
     Fixed purple Lincoln Memorial
     Removed unnecessary meshes
-
-Pre-1.7.2
-
     Fixed building LOD rotation west of Friendship Heights
     Remade vanilla LOD for the Mall including: Capitol Building, Washington Monument, Lincoln Memorial, and National Archives
     New Lincoln Statue LOD
